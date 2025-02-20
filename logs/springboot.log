@@ -1,0 +1,209 @@
+2025-02-20 11:06:25 - Starting BlogApplication using Java 21.0.5 with PID 29604 (D:\idea\JuRuoJavadeway\blog\target\classes started by 33013 in D:\idea\JuRuoJavadeway\blog)
+2025-02-20 11:06:25 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 11:06:26 - Tomcat initialized with port 9421 (http)
+2025-02-20 11:06:26 - Initializing ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:06:26 - Starting service [Tomcat]
+2025-02-20 11:06:26 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 11:06:26 - Initializing Spring embedded WebApplicationContext
+2025-02-20 11:06:26 - Root WebApplicationContext: initialization completed in 725 ms
+2025-02-20 11:06:26 - Starting ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:06:26 - Tomcat started on port 9421 (http) with context path '/tzb'
+2025-02-20 11:06:26 - Started BlogApplication in 1.601 seconds (process running for 2.025)
+2025-02-20 11:07:13 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 11:07:13 - Graceful shutdown complete
+2025-02-20 11:07:17 - Starting BlogApplication using Java 21.0.5 with PID 15576 (D:\idea\JuRuoJavadeway\blog\target\classes started by 33013 in D:\idea\JuRuoJavadeway\blog)
+2025-02-20 11:07:17 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 11:07:17 - Tomcat initialized with port 9421 (http)
+2025-02-20 11:07:17 - Initializing ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:07:17 - Starting service [Tomcat]
+2025-02-20 11:07:18 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 11:07:18 - Initializing Spring embedded WebApplicationContext
+2025-02-20 11:07:18 - Root WebApplicationContext: initialization completed in 783 ms
+2025-02-20 11:07:18 - Starting ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:07:18 - Tomcat started on port 9421 (http) with context path '/tzb'
+2025-02-20 11:07:18 - Started BlogApplication in 1.586 seconds (process running for 1.978)
+2025-02-20 11:24:16 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 11:24:16 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 11:24:16 - Completed initialization in 2 ms
+2025-02-20 11:24:16 - HikariPool-1 - Starting...
+2025-02-20 11:24:22 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@255a7392
+2025-02-20 11:24:22 - HikariPool-1 - Start completed.
+2025-02-20 11:27:52 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 11:27:52 - Graceful shutdown complete
+2025-02-20 11:27:52 - HikariPool-1 - Shutdown initiated...
+2025-02-20 11:27:52 - HikariPool-1 - Shutdown completed.
+2025-02-20 11:27:56 - Starting BlogApplication using Java 21.0.5 with PID 22832 (D:\idea\JuRuoJavadeway\blog\target\classes started by 33013 in D:\idea\JuRuoJavadeway\blog)
+2025-02-20 11:27:56 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 11:27:57 - Tomcat initialized with port 9421 (http)
+2025-02-20 11:27:57 - Initializing ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:27:57 - Starting service [Tomcat]
+2025-02-20 11:27:57 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 11:27:57 - Initializing Spring embedded WebApplicationContext
+2025-02-20 11:27:57 - Root WebApplicationContext: initialization completed in 773 ms
+2025-02-20 11:27:57 - Starting ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:27:57 - Tomcat started on port 9421 (http) with context path '/tzb'
+2025-02-20 11:27:57 - Started BlogApplication in 1.966 seconds (process running for 2.96)
+2025-02-20 11:28:07 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 11:28:07 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 11:28:07 - Completed initialization in 7 ms
+2025-02-20 11:28:07 - HikariPool-1 - Starting...
+2025-02-20 11:28:13 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@796801f0
+2025-02-20 11:28:13 - HikariPool-1 - Start completed.
+2025-02-20 11:32:44 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 11:32:44 - Graceful shutdown complete
+2025-02-20 11:32:44 - HikariPool-1 - Shutdown initiated...
+2025-02-20 11:32:44 - HikariPool-1 - Shutdown completed.
+2025-02-20 11:32:47 - Starting BlogApplication using Java 21.0.5 with PID 16564 (D:\idea\JuRuoJavadeway\blog\target\classes started by 33013 in D:\idea\JuRuoJavadeway\blog)
+2025-02-20 11:32:47 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 11:32:49 - Tomcat initialized with port 9421 (http)
+2025-02-20 11:32:49 - Initializing ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:32:49 - Starting service [Tomcat]
+2025-02-20 11:32:49 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 11:32:49 - Initializing Spring embedded WebApplicationContext
+2025-02-20 11:32:49 - Root WebApplicationContext: initialization completed in 1288 ms
+2025-02-20 11:32:50 - Starting ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:32:50 - Tomcat started on port 9421 (http) with context path '/tzb'
+2025-02-20 11:32:50 - Started BlogApplication in 2.573 seconds (process running for 3.151)
+2025-02-20 11:32:57 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 11:32:57 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 11:32:57 - Completed initialization in 5 ms
+2025-02-20 11:33:21 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 11:33:21 - Graceful shutdown complete
+2025-02-20 11:33:25 - Starting BlogApplication using Java 21.0.5 with PID 15080 (D:\idea\JuRuoJavadeway\blog\target\classes started by 33013 in D:\idea\JuRuoJavadeway\blog)
+2025-02-20 11:33:25 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 11:33:26 - Tomcat initialized with port 9421 (http)
+2025-02-20 11:33:26 - Initializing ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:33:26 - Starting service [Tomcat]
+2025-02-20 11:33:26 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 11:33:26 - Initializing Spring embedded WebApplicationContext
+2025-02-20 11:33:26 - Root WebApplicationContext: initialization completed in 1287 ms
+2025-02-20 11:33:27 - Starting ProtocolHandler ["http-nio-9421"]
+2025-02-20 11:33:27 - Tomcat started on port 9421 (http) with context path '/tzb'
+2025-02-20 11:33:27 - Started BlogApplication in 2.69 seconds (process running for 3.259)
+2025-02-20 11:33:31 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 11:33:31 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 11:33:31 - Completed initialization in 3 ms
+2025-02-20 11:33:31 - HikariPool-1 - Starting...
+2025-02-20 11:33:37 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5131ae19
+2025-02-20 11:33:37 - HikariPool-1 - Start completed.
+2025-02-20 11:54:25 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m29s554ms532µs600ns).
+2025-02-20 12:46:07 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m41s179ms636µs100ns).
+2025-02-20 12:50:23 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 12:50:23 - Graceful shutdown complete
+2025-02-20 12:50:23 - HikariPool-1 - Shutdown initiated...
+2025-02-20 12:50:23 - HikariPool-1 - Shutdown completed.
+2025-02-20 12:50:32 - Starting BlogApplication using Java 21.0.5 with PID 27736 (D:\idea\JuRuoJavadeway\blog\target\classes started by 33013 in D:\idea\JuRuoJavadeway\blog)
+2025-02-20 12:50:32 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 12:50:32 - Tomcat initialized with port 9421 (http)
+2025-02-20 12:50:33 - Initializing ProtocolHandler ["http-nio-9421"]
+2025-02-20 12:50:33 - Starting service [Tomcat]
+2025-02-20 12:50:33 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 12:50:33 - Initializing Spring embedded WebApplicationContext
+2025-02-20 12:50:33 - Root WebApplicationContext: initialization completed in 870 ms
+2025-02-20 12:50:33 - Starting ProtocolHandler ["http-nio-9421"]
+2025-02-20 12:50:33 - Tomcat started on port 9421 (http) with context path '/tzb'
+2025-02-20 12:50:33 - Started BlogApplication in 1.684 seconds (process running for 2.469)
+2025-02-20 12:50:42 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 12:50:42 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 12:50:42 - Completed initialization in 1 ms
+2025-02-20 12:50:42 - HikariPool-1 - Starting...
+2025-02-20 12:50:48 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@633ada21
+2025-02-20 12:50:48 - HikariPool-1 - Start completed.
+2025-02-20 12:50:48 - Servlet.service() for servlet [dispatcherServlet] in context with path [/tzb] threw exception [Could not resolve view with name 'users/1' in servlet with name 'dispatcherServlet'] with root cause
+jakarta.servlet.ServletException: Could not resolve view with name 'users/1' in servlet with name 'dispatcherServlet'
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1410)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1105)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-02-20 12:50:52 - Servlet.service() for servlet [dispatcherServlet] in context with path [/tzb] threw exception [Could not resolve view with name 'users/1' in servlet with name 'dispatcherServlet'] with root cause
+jakarta.servlet.ServletException: Could not resolve view with name 'users/1' in servlet with name 'dispatcherServlet'
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1410)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1167)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1105)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-02-20 12:52:26 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 12:52:26 - Graceful shutdown complete
+2025-02-20 12:52:26 - HikariPool-1 - Shutdown initiated...
+2025-02-20 12:52:26 - HikariPool-1 - Shutdown completed.
+2025-02-20 12:52:29 - Starting BlogApplication using Java 21.0.5 with PID 21892 (D:\idea\JuRuoJavadeway\blog\target\classes started by 33013 in D:\idea\JuRuoJavadeway\blog)
+2025-02-20 12:52:29 - No active profile set, falling back to 1 default profile: "default"
+2025-02-20 12:52:30 - Tomcat initialized with port 9421 (http)
+2025-02-20 12:52:30 - Initializing ProtocolHandler ["http-nio-9421"]
+2025-02-20 12:52:30 - Starting service [Tomcat]
+2025-02-20 12:52:30 - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-02-20 12:52:30 - Initializing Spring embedded WebApplicationContext
+2025-02-20 12:52:30 - Root WebApplicationContext: initialization completed in 603 ms
+2025-02-20 12:52:30 - Starting ProtocolHandler ["http-nio-9421"]
+2025-02-20 12:52:30 - Tomcat started on port 9421 (http) with context path '/tzb'
+2025-02-20 12:52:30 - Started BlogApplication in 1.255 seconds (process running for 1.598)
+2025-02-20 12:52:40 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-02-20 12:52:40 - Initializing Servlet 'dispatcherServlet'
+2025-02-20 12:52:40 - Completed initialization in 1 ms
+2025-02-20 12:52:40 - HikariPool-1 - Starting...
+2025-02-20 12:52:45 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71bea9be
+2025-02-20 12:52:45 - HikariPool-1 - Start completed.
+2025-02-20 13:12:53 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m8s67ms98µs200ns).
+2025-02-20 13:30:35 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-20 13:30:35 - Graceful shutdown complete
+2025-02-20 13:30:35 - HikariPool-1 - Shutdown initiated...
+2025-02-20 13:30:35 - HikariPool-1 - Shutdown completed.

@@ -1,0 +1,31 @@
+server:
+  port: 9421
+  servlet:
+    context-path: /tzb
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url:  jdbc:mysql://47.101.42.177:3306/blog?serverTimezone=UTC&characterEncoding=utf8&useUnicode=true&useSSL=false&allowPublicKeyRetrieval=true
+    username: root
+    password: Tzb304213
+#    type: com.alibaba.druid.pool.DruidDataSource
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+mybatis:
+  type-aliases-package: tzb.pojo
+#  mapper-locations: classpath:mappers/*.xml
+
+
+
+logging:
+  level:
+    org:
+      hibernate:
+        SQL: DEBUG
+        type:
+          descriptor:
+                      sql: trace
+
